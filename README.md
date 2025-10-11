@@ -1,7 +1,7 @@
 # Hospital Management System
 
 A Windows Forms application built with C# and Entity Framework for managing hospital operations including patients, doctors, and appointments.
-
+## This project was developed as the final project for Windows Form in the ITI Intensive Program (DotNet).
 ## Features
 
 - **User Authentication** - Secure login system with role-based access
